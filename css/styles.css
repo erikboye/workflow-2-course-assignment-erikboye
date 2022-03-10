@@ -1,0 +1,12 @@
+body {
+  background-color: rgba(39, 161, 182, 0.979);
+}
+
+.cards {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  border: 2px solid rgba(255, 162, 0, 0.817);
+  margin-bottom: 40px;
+}
+/*# sourceMappingURL=styles.css.map */
